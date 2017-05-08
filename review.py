@@ -1,5 +1,7 @@
 from zomato import Zomato
 
+# Provide ZOMATO-API-KEY
 z = Zomato("ZOMATO-API-KEY")
 
-z.parse("reviews","res_id=12345")
+# Provide restaurant ID here in place of 12345
+z.parse("res_id=12345")
