@@ -56,4 +56,4 @@ def evaluate_classifier(txt):
     #accuracy = nltk.classify.util.accuracy(classifier, testfeats)
     #print accuracy
 
-print evaluate_classifier("")
+#print evaluate_classifier("")

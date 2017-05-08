@@ -1,7 +1,7 @@
 # Zomato Review Analysis
 Sentiement analysis of reviews of restaurent by users on Zomato. Also it send email alert to restaurents for negative reviews.
 
-##Dependencies
+## Dependencies
 
 * MySQLdb (https://pypi.python.org/pypi/MySQL-python)
 * textblob (https://textblob.readthedocs.io/en/dev/)
